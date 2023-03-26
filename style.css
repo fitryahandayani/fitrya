@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(162, 162, 162);
+}
+header form{
+    margin-left: 660px;
+}
+
+header h3{
+    color: WHITE;
+    margin-left: 120px;
+}
+
+.col h1{
+    color: rgb(255, 255, 255);
+}
+
+.card {
+    background-color: black;
+
+}
+.card-body h5 {
+    color: white;
+}
+
+.card-body p {
+    color: aliceblue;
+    height: 250px;
+}
